@@ -14,8 +14,8 @@ This repository serves as my organized workspace for all course requirements, in
 ## 👤 Student Information
 
 - **Name:** Paula Mae Mata
-- **Course/Section:** BSIT - (Your Section)
-- **Instructor:** (Instructor's Name)
+- **Course/Section:** BSIT - 4G
+- **Instructor:** Jenkielyn Torres
 - **School Year:** 2026–2027
 
 ## 📂 Repository Structure
